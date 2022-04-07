@@ -4,7 +4,6 @@ description: >-
   health platform to accelerate clinical research and realize the personalized,
   precision medicine of the future.
 ---
-
 # 💡 Litepaper
 
 ## tl;dr
@@ -23,7 +22,7 @@ Over 350,000 digital health developers are ultimately trying to improve human he
 
 CureDAO utilizes a new meritocratic economic system of Collaborationism that will transcend the incentivization failures and inefficiencies of previous economic models such as Communism and Capitalism.  The CureDAO incentive structure overcomes the traditional collaboration and data sharing barriers by encoding contributions through non-fungible tokens (NFTs). Using smart contracts, the platform will compensate all contributors of work, data, and IP with ongoing royalties.
 
-![How Collaborationism Makes Everyone Better Off](<.gitbook/assets/value-chain-diagram (1).png>)
+![How Collaborationism Makes Everyone Better Off](.gitbook/assets/value-chain-diagram (1).png)
 
 Our hypothesis (and dream) is that this new system can accelerate the rate of clinical discovery 350,000 times 🚀️ and create a world where suffering is optional. 😃
 
