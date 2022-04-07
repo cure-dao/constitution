@@ -19,7 +19,7 @@ This growth is likely in part due to two main factors:
 * the rise of the novel coronavirus has increased the attention and importance of pharmaceutical development
 * the number of persons older than 60 is expected to more than double in the coming decades
 
-![aging-population](<../.gitbook/assets/growth-in-aging-population (2).png>)
+![aging-population](<../.gitbook/assets/growth-in-aging-population (1) (1).png>)
 
 These factors all point to a massive potential for the revenue necessary to sustain this project. The primary sources of revenue include:
 
@@ -29,7 +29,7 @@ These factors all point to a massive potential for the revenue necessary to sust
 2. Grants from governments modernizing their programs to take advantage of real-world data
 3. Digital health companies wishing to accelerate product development using existing white-label software or hosted software-as-a-service (SaaS) options
 
-![](<../.gitbook/assets/value-flow-chain (4).svg>)
+![](<../.gitbook/assets/value-flow-chain (1) (3).svg>)
 
 ### Hosted Software as a Service (SaaS)
 
@@ -59,7 +59,7 @@ This will ensure that anyone can afford to use it, while still providing compens
 
 ### Plugin Marketplace
 
-![plugin marketplace](../.gitbook/assets/plugin-marketplace.png)
+![plugin marketplace](<../.gitbook/assets/plugin-marketplace (1).png>)
 
 ### References
 

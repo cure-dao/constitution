@@ -11,7 +11,7 @@ description: >-
 
 **Question:** How can we have a massive explosion in health data and digital health technology and have no improvement in lifespan or reduction in costs?&#x20;
 
-![Can you spot the mistake in this equation?](.gitbook/assets/digital-health-has-failed.png)
+![](.gitbook/assets/data-growth-apps-life-expectancy-costs-charts.png)
 
 ![](.gitbook/assets/chloe-can-you-not.gif)
 
@@ -93,7 +93,7 @@ The solution is to use the oceans of real-world evidence to accelerate the disco
 
 The human body can be viewed as a black box with inputs (like diet, treatments, etc.) and outputs (like symptom severity). We're creating a mathematical model of human biology to determine the input factors and values that produce optimal health outcomes.
 
-![Predictive Control Machine Learning Model for Health Optimization](.gitbook/assets/machine-learning-health-optimization.png)
+![Predictive Control Machine Learning Model for Health Optimization](<.gitbook/assets/machine-learning-health-optimization (1).png>)
 
 #### The Potential of the Oceans of Real-World Evidence
 
@@ -151,15 +151,15 @@ Despite this massive growth in health data and innovation, we've seen increased 
 
 The reason is awful **incentives**. There are more than [350,000](https://www.emarketer.com/content/over-350k-digital-health-apps-flooding-market-here-s-how-apps-stand) health apps, and each costs an average of [$425,000](https://www.mobihealthnews.com/content/mobile-health-app-development-costs-425000-average-likely-continuing-rise) to develop. Most have significant overlap in functionality, representing a cost of [$157,500,000,000](https://www.mobihealthnews.com/content/mobile-health-app-development-costs-425000-average-likely-continuing-rise) on duplication of effort.
 
-![](<.gitbook/assets/collaboration-is-punished (1).PNG>)
+![](.gitbook/assets/collaboration-is-punished.PNG)
 
 Isolated streams of health data can only tell us about the past. For example, dashboards filled with descriptive statistics such as our daily steps or sleep.
 
-![](.gitbook/assets/thousands-of-dashboards.PNG)
+![](<.gitbook/assets/thousands-of-dashboards (1).PNG>)
 
 If this data and innovation efforts were combined, this could increase the rate of progress by 350,000 times.
 
-![](.gitbook/assets/vertical-innovation.PNG)
+![](<.gitbook/assets/vertical-innovation (1).PNG>)
 
 The obstacle has been the free-rider problem. Software developers that open source their code give their closed-source competitors an unfair advantage, increasing their likelihood of bankruptcy.
 
@@ -238,7 +238,7 @@ Value stream management allows the exchange of data for tokens.
 * Electronic Health Record System Plugins
 * Clinical Trial Management Plugins
 
-![Branded Plugins](<.gitbook/assets/plugin-marketplace (1).png>)
+![Branded Plugins](.gitbook/assets/plugin-marketplace.png)
 
 **Data Analysis Plugins**
 
@@ -267,7 +267,7 @@ We use the DAO structure and NFT IP royalties to reward data sharing and open-so
 
 This illustrates the flow of value between different stakeholders. Unlike traditional zero-sum games, CureDAO provides everyone with more value from participation than they have to put into it.
 
-![Value Flow Chain](<.gitbook/assets/value-chain-diagram (2).png>)
+![Value Flow Chain](.gitbook/assets/value-chain-diagram.png)
 
 #### 1. Patients
 
@@ -342,7 +342,7 @@ The goal of CureDAO is for every human on earth to share the natural experiments
 
 The genesis distribution event will make 10% of CureDAO's total token supply available to interested participants using a fair and open smart contract auction.
 
-![](.gitbook/assets/token-distribution.png)
+![](<.gitbook/assets/image (4).png>)
 
 Since CureDAO's genesis operates via a public auction, the community decides the initial token price. We estimate a minimum of $5,000,000 will be required to support the first iteration of the platform.
 

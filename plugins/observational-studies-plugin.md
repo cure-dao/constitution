@@ -2,7 +2,7 @@
 description: >-
   We’ve collected over 10 million data points on symptom severity and
   influencing factors from over 10,000 people.
-cover: ../.gitbook/assets/journal-of-citizen-science (1).png
+cover: ../.gitbook/assets/journal-of-citizen-science.png
 coverY: 151.1013215859031
 ---
 

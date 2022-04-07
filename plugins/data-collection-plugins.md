@@ -40,4 +40,4 @@ The data sources would include:
 * Visual Affect Data via Web-Cameras: By tracking hundreds of points on the subjects’ faces, InSight can accurately capture emotional states.
 * Prescription Records: Microsoft HealthVault can automatically collect lab results, prescription history, and visit records from a growing list of labs, pharmacies, hospitals, and clinics.
 
-![data import](<../.gitbook/assets/integrations-screenshot (1).PNG>)
+![data import](<../.gitbook/assets/data-import (1).PNG>)
