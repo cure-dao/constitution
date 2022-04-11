@@ -4,25 +4,26 @@ description: >-
   health platform to accelerate clinical research and realize the personalized,
   precision medicine of the future.
 ---
+
 # 💡 Litepaper
 
 ## tl;dr
 
-**Question:** How can we have a massive explosion in health data and digital health technology and have no improvement in lifespan or reduction in costs?&#x20;
+**Question:** How can we have a massive explosion in health data and digital health technology and have no improvement in lifespan or reduction in costs?
 
 ![](.gitbook/assets/data-growth-apps-life-expectancy-costs-charts.png)
 
 ![](.gitbook/assets/chloe-can-you-not.gif)
 
-**Answer:** Gross inefficiency and data hoarding.&#x20;
+**Answer:** Gross inefficiency and data hoarding.
 
-Over 350,000 digital health developers are ultimately trying to improve human health and wasting billions of dollars 💸 and billions of hours ⏳ building the same features. We have a market incentive structure that punishes open-source cooperation, and data sharing and 💰 rewards closed, proprietary, and wasteful duplication of effort.&#x20;
+Over 350,000 digital health developers are ultimately trying to improve human health and wasting billions of dollars 💸 and billions of hours ⏳ building the same features. We have a market incentive structure that punishes open-source cooperation, and data sharing and 💰 rewards closed, proprietary, and wasteful duplication of effort.
 
-**Solution:** An open platform for clinical research that incentivizes cooperation and data sharing.&#x20;
+**Solution:** An open platform for clinical research that incentivizes cooperation and data sharing.
 
-CureDAO utilizes a new meritocratic economic system of Collaborationism that will transcend the incentivization failures and inefficiencies of previous economic models such as Communism and Capitalism.  The CureDAO incentive structure overcomes the traditional collaboration and data sharing barriers by encoding contributions through non-fungible tokens (NFTs). Using smart contracts, the platform will compensate all contributors of work, data, and IP with ongoing royalties.
+CureDAO utilizes a new meritocratic economic system of Collaborationism that will transcend the incentivization failures and inefficiencies of previous economic models such as Communism and Capitalism. The CureDAO incentive structure overcomes the traditional collaboration and data sharing barriers by encoding contributions through non-fungible tokens (NFTs). Using smart contracts, the platform will compensate all contributors of work, data, and IP with ongoing royalties.
 
-![How Collaborationism Makes Everyone Better Off](.gitbook/assets/value-chain-diagram (1).png)
+![How Collaborationism Makes Everyone Better Off](.gitbook/assets/value-chain-diagram.png)
 
 Our hypothesis (and dream) is that this new system can accelerate the rate of clinical discovery 350,000 times 🚀️ and create a world where suffering is optional. 😃
 
@@ -60,22 +61,6 @@ It consists of two primary components:
 ![The Platform](.gitbook/assets/simplified-platform-architecture-diagram.png)
 
 Our novel incentive structure overcomes the traditional collaboration and data sharing barriers by encoding contributions through non-fungible tokens (NFTs). Using smart contracts, the platform will compensate all contributors with royalties.
-
-### Join Us Right Now!
-
-Hey, you! 👀
-
-Our community is open to anyone interested in accelerating precision health and new discoveries. Our success is dependent on the participation of people like you. 🚀
-
-Surely, you've been persuaded by now after seeing all those exciting diagrams?
-
-**👉** [**Join Us Right Now!**](https://info.curedao.org/join-us)
-
-What?!? You're still reading? Didn't you see that pointy hand icon? That means click it!
-
-Fine. Have it your way.
-
-Then you can read our Lite Paper. But I'm warning you. It's just a string of alphanumeric characters arranged in arbitrary patterns according to rules some British guy randomly came up with a long time ago.
 
 ## 💡 Litepaper
 
@@ -266,7 +251,7 @@ We use the DAO structure and NFT IP royalties to reward data sharing and open-so
 
 This illustrates the flow of value between different stakeholders. Unlike traditional zero-sum games, CureDAO provides everyone with more value from participation than they have to put into it.
 
-![Value Flow Chain](.gitbook/assets/value-chain-diagram.png)
+![Value Flow Chain](<.gitbook/assets/value-chain-diagram (1).png>)
 
 #### 1. Patients
 
@@ -289,7 +274,7 @@ Businesses housing data silos include health insurers, pharmacies, grocery deliv
 2. Massive free marketing exposure through company branded plugins in the Plugin Marketplace.
 3. Revenue derived from their plugins in the Plugin Marketplace.
 
-#### 5.Incentives for Disease Advocacy Non-Profit Organizations
+#### 5. Incentives for Disease Advocacy Non-Profit Organizations
 
 Disease advocacy nonprofits will benefit from promoting studies to their members by:
 
@@ -331,9 +316,17 @@ Accordingly, the organization is composed of three primary components.
 
 ## Tokenomics
 
-The CureDAO governance token is used to incentivize data sharing and open-source collaboration. Tokens are obtained by contributing work, data, IP, or funds to CureDAO.
+The CureDAO governance/utility token is used to incentivize data sharing and open-source collaboration. Tokens are obtained by contributing work, data, IP, or funds to CureDAO. $CURED tokens serve both as a governance token and a utility token.
+
+### Governance
 
 Tokens grant CureDAO [Citizen Scientists](constitution/5-organization.md) the right to decide how the DAO's resources are distributed.
+
+### Utility
+
+For researchers and digital health apps or businesses, tokens can be exchanged for server time or API requests when utilizing the platform.&#x20;
+
+For individuals, tokens are used as a point system to reward sharing all or part of their data for research. They may then be redeemed for deals and offers from partner health and wellness brands.
 
 ### Token Genesis
 
