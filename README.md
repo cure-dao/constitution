@@ -77,7 +77,7 @@ The solution is to use the oceans of real-world evidence to accelerate the disco
 
 The human body can be viewed as a black box with inputs (like diet, treatments, etc.) and outputs (like symptom severity). We're creating a mathematical model of human biology to determine the input factors and values that produce optimal health outcomes.
 
-![Predictive Control Machine Learning Model for Health Optimization](<.gitbook/assets/machine-learning-health-optimization (1).png>)
+![Predictive Control Machine Learning Model for Health Optimization](.gitbook/assets/machine-learning-health-optimization (1).png)
 
 #### The Potential of the Oceans of Real-World Evidence
 
@@ -139,11 +139,11 @@ The reason is awful **incentives**. There are more than [350,000](https://www.em
 
 Isolated streams of health data can only tell us about the past. For example, dashboards filled with descriptive statistics such as our daily steps or sleep.
 
-![](<.gitbook/assets/thousands-of-dashboards (1).PNG>)
+![](.gitbook/assets/thousands-of-dashboards (1).PNG)
 
 If this data and innovation efforts were combined, this could increase the rate of progress by 350,000 times.
 
-![](<.gitbook/assets/vertical-innovation (1).PNG>)
+![](.gitbook/assets/vertical-innovation (1).PNG)
 
 The obstacle has been the free-rider problem. Software developers that open source their code give their closed-source competitors an unfair advantage, increasing their likelihood of bankruptcy.
 
@@ -334,7 +334,7 @@ The goal of CureDAO is for every human on earth to share the natural experiments
 
 The genesis distribution event will make 10% of CureDAO's total token supply available to interested participants using a fair and open smart contract auction.
 
-![](<.gitbook/assets/image (4).png>)
+![](.gitbook/assets/image (4).png)
 
 Since CureDAO's genesis operates via a public auction, the community decides the initial token price. We estimate a minimum of $5,000,000 will be required to support the first iteration of the platform.
 

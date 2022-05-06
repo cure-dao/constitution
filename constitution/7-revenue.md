@@ -3,7 +3,6 @@ description: >-
   How CureDAO generates revenue streams to compensate IP and data contributors
   sustain and grow the project.
 ---
-
 # 💰 Revenue
 
 👈 [Back to Table of Contents](../)
@@ -19,7 +18,7 @@ This growth is likely in part due to two main factors:
 * the rise of the novel coronavirus has increased the attention and importance of pharmaceutical development
 * the number of persons older than 60 is expected to more than double in the coming decades
 
-![aging-population](<../.gitbook/assets/growth-in-aging-population (1) (2).png>)
+![aging-population](../.gitbook/assets/growth-in-aging-population (1) (2).png)
 
 These factors all point to a massive potential for the revenue necessary to sustain this project. The primary sources of revenue include:
 
@@ -29,11 +28,42 @@ These factors all point to a massive potential for the revenue necessary to sust
 2. Grants from governments modernizing their programs to take advantage of real-world data
 3. Digital health companies wishing to accelerate product development using existing white-label software or hosted software-as-a-service (SaaS) options
 
-![](<../.gitbook/assets/value-flow-chain (1) (1) (3).svg>)
+![](../.gitbook/assets/value-flow-chain (1) (1) (3).svg)
 
 ### Hosted Software as a Service (SaaS)
 
 Digital health companies can save months of development time and tens of thousands of dollars by using our platform instead of reinventing the wheel. A usage-based subscription platform for health application developers would start at $0.50/end-user per month.
+
+#### Token Pricing Model
+
+# CureDAO Pricing 101
+
+## What is an CureDAO token?
+
+CureDAO tokens are used to pay for the consumption of resources on CureDAO. An CureDAO token is a unit of measure, and it is consumed only when a customer is using resources, like running a sync. We measure the time between the moment the first byte is read and the last one is written.
+
+## How much does a token cost?
+
+The standard price for an CureDAO token is **$5. **
+
+## What will 1 token get me?
+
+It actually depends on your source!  For example, if you're syncing data from an API, a sync that takes 1 hour will cost 1 token.
+
+* **APIs**  ------------------ a sync of 1 hour costs 1 token
+* **Databases**  --------- a sync of 1 hour costs 10 tokens
+* **Files**  ------------------ a sync of 1 hour costs 4 tokens
+
+We also have guardrails in place to prevent overcharging for extraordinarily slow syncs.
+
+**Do you charge for partial hours?**
+Yes, we'll pro-rate down to 5 milliseconds of the sync time. For example, if your sync only took 80 seconds, we'll only charge you 0.022222 tokens for that sync.
+
+**Is there a minimum subscription length I need to commit to?
+**No!
+
+**Is there a minimum purchase amount?**
+100 tokens is the minimum purchase amount.
 
 ### Sponsored Apps
 
