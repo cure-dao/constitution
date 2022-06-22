@@ -3,22 +3,25 @@ description: >-
   How CureDAO generates revenue streams to compensate IP and data contributors
   sustain and grow the project.
 ---
+
 # 💰 Revenue
+
+## 💰 Revenue
 
 👈 [Back to Table of Contents](../)
 
-## Revenue
+### Revenue
 
 The biotech and pharmaceutical industries are two of the fastest-growing sectors of the U.S. economy.
 
-&#x20;![sector-growth](../.gitbook/assets/sector-growth-rates.png)
+![sector-growth](../.gitbook/assets/sector-growth-rates.png)
 
 This growth is likely in part due to two main factors:
 
 * the rise of the novel coronavirus has increased the attention and importance of pharmaceutical development
 * the number of persons older than 60 is expected to more than double in the coming decades
 
-![aging-population](../.gitbook/assets/growth-in-aging-population (1) (2).png)
+!\[aging-population]\(../.gitbook/assets/growth-in-aging-population (1) (2).png)
 
 These factors all point to a massive potential for the revenue necessary to sustain this project. The primary sources of revenue include:
 
@@ -28,44 +31,41 @@ These factors all point to a massive potential for the revenue necessary to sust
 2. Grants from governments modernizing their programs to take advantage of real-world data
 3. Digital health companies wishing to accelerate product development using existing white-label software or hosted software-as-a-service (SaaS) options
 
-![](../.gitbook/assets/value-flow-chain (1) (1) (3).svg)
+!\[]\(../.gitbook/assets/value-flow-chain (1) (1) (3).svg)
 
-### Hosted Software as a Service (SaaS)
+#### Hosted Software as a Service (SaaS)
 
 Digital health companies can save months of development time and tens of thousands of dollars by using our platform instead of reinventing the wheel. A usage-based subscription platform for health application developers would start at $0.50/end-user per month.
 
-#### Token Pricing Model
+**Token Pricing Model**
 
-# CureDAO Pricing 101
+## CureDAO Pricing 101
 
-## What is an CureDAO token?
+### What is an CureDAO token?
 
 CureDAO tokens are used to pay for the consumption of resources on CureDAO. An CureDAO token is a unit of measure, and it is consumed only when a customer is using resources, like running a sync. We measure the time between the moment the first byte is read and the last one is written.
 
-## How much does a token cost?
+### How much does a token cost?
 
-The standard price for an CureDAO token is **$5. **
+The standard price for an CureDAO token is \*\*$5. \*\*
 
-## What will 1 token get me?
+### What will 1 token get me?
 
-It actually depends on your source!  For example, if you're syncing data from an API, a sync that takes 1 hour will cost 1 token.
+It actually depends on your source! For example, if you're syncing data from an API, a sync that takes 1 hour will cost 1 token.
 
-* **APIs**  ------------------ a sync of 1 hour costs 1 token
-* **Databases**  --------- a sync of 1 hour costs 10 tokens
-* **Files**  ------------------ a sync of 1 hour costs 4 tokens
+* **APIs** ------------------ a sync of 1 hour costs 1 token
+* **Databases** --------- a sync of 1 hour costs 10 tokens
+* **Files** ------------------ a sync of 1 hour costs 4 tokens
 
 We also have guardrails in place to prevent overcharging for extraordinarily slow syncs.
 
-**Do you charge for partial hours?**
-Yes, we'll pro-rate down to 5 milliseconds of the sync time. For example, if your sync only took 80 seconds, we'll only charge you 0.022222 tokens for that sync.
+**Do you charge for partial hours?** Yes, we'll pro-rate down to 5 milliseconds of the sync time. For example, if your sync only took 80 seconds, we'll only charge you 0.022222 tokens for that sync.
 
-**Is there a minimum subscription length I need to commit to?
-**No!
+\*\*Is there a minimum subscription length I need to commit to? \*\*No!
 
-**Is there a minimum purchase amount?**
-100 tokens is the minimum purchase amount.
+**Is there a minimum purchase amount?** 100 tokens is the minimum purchase amount.
 
-### Sponsored Apps
+#### Sponsored Apps
 
 106,000 people die annually in the U.S. from properly prescribed drugs. The number of people having in-hospital, adverse reactions to prescribed drugs to be 2.2 million per year. The total number of deaths caused by conventional medicine is 783,936 per year. Pharmaceutical companies spend over $2 billion a year on over 314,000 events attended by doctors.
 
@@ -77,21 +77,21 @@ Sponsor apps using the platform can be provided to hospitals, insurers, and phar
 
 Pricing would follow a subscription model, starting at $2 per end-user per month.
 
-### Data Licensing
+#### Data Licensing
 
 Electronic health records (EHRs) can be used to support randomized controlled trials (RCTs). A \[meta-analysis] (https://pubmed.ncbi.nlm.nih.gov/30718353/) found that the per-patient cost in EHR-supported trials varied from [$44 to $2000](https://pubmed.ncbi.nlm.nih.gov/30718353/). Using NFTs, we can link donated data to the patient so that they may receive ongoing royalty payments for the use of their data once new interventions reach the market. A fraction of the revenue, to be determined democratically by the patients and DAO Citizens, may be directed to the DAO treasury to sustain the project.
 
-### Software Licensing
+#### Software Licensing
 
 Although the project core framework will be open-source for any non-commercial purpose. However, we will utilize a [Fair-code](https://faircode.io) or [Fair Source](https://fair.io/?a) licensing model to generate revenue when utilized by for-profit entities. Licensing fees will be negotiated such that a fraction of the profits generated by the licensee's use of the project.
 
 This will ensure that anyone can afford to use it, while still providing compensation to the developers of the platform.
 
-### Plugin Marketplace
+#### Plugin Marketplace
 
 ![plugin marketplace](../.gitbook/assets/plugin-marketplace.png)
 
-### References
+#### References
 
 1. [World Population Aging (un.org)](https://www.un.org/en/development/desa/population/publications/pdf/ageing/WPA2017\_Highlights.pdf)
 2. [Historical (Compounded Annual) Growth Rates by Sector](https://pages.stern.nyu.edu/\~adamodar/New\_Home\_Page/datafile/histgr.html)
@@ -100,6 +100,6 @@ This will ensure that anyone can afford to use it, while still providing compens
 5. [Fair Source License](https://fair.io/?a)
 6. [Fair-code (faircode.io)](https://faircode.io)
 
-#### [Next Legal Framework](8-legal-framework.md) 👉
+[**Next Legal Framework**](8-legal-framework.md) **👉**
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).

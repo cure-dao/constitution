@@ -36,7 +36,7 @@ Whether an effective means of prevention or treatment becomes available in time 
 
 ### The Problem
 
-The reason that medical progress is so deadly slow is that long-term longitudinal research has historically been very expensive. For example, it costs $[41k](https://www.clinicalleader.com/doc/getting-a-handle-on-clinical-trial-costs-0001#:\~:text=The%20clinical%20trials%20cost%20a,and%20benchmarking%20clinical%20trial%20costs.) per subject in a Phase III clinical trial. As a result, there is not a sufficient profit incentive for anyone to do research on the effects of any factor besides a molecule that can be patented.
+The reason that medical progress is so deadly slow is that long-term longitudinal research has historically been very expensive. For example, it costs $[41k](https://www.clinicalleader.com/doc/getting-a-handle-on-clinical-trial-costs-0001) per subject in a Phase III clinical trial. As a result, there is not a sufficient profit incentive for anyone to do research on the effects of any factor besides a molecule that can be patented.
 
 ![](https://crowdsourcingcures.org/wp-content/uploads/2020/10/why-research-is-failing.png)
 
@@ -92,7 +92,7 @@ Here we see the top factors most predictive of reduced inflammatory pain. The st
 
 ![](https://crowdsourcingcures.org/wp-content/uploads/2020/10/journal-of-citizen-science.png)
 
-We publish our anonymously aggregated analyses at [the Journal of Citizen Science](https://studies.quantimo.do). So far, we’ve collected over 10 million data points on symptom severity and influencing factors from over 10,000 people. This data has been used to freely publish 90,000 studies on the effects of various treatments and food ingredients on symptom severity.
+We publish our anonymously aggregated analyses at [the Journal of Citizen Science](https://studies.quantimo.do/). So far, we’ve collected over 10 million data points on symptom severity and influencing factors from over 10,000 people. This data has been used to freely publish 90,000 studies on the effects of various treatments and food ingredients on symptom severity.
 
 ![](https://crowdsourcingcures.org/wp-content/uploads/2020/10/open-source-720x360-1.jpg)
 

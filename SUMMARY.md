@@ -33,7 +33,7 @@
     * [Android Developer](how-to/positions-at-cure-dao/android-developer.md)
     * [API Developer](how-to/positions-at-cure-dao/api-developer.md)
     * [Data Scientist](how-to/positions-at-cure-dao/data-scientist.md)
-    * [Dev Ops](how-to/positions-at-cure-dao/dev-ops.md)
+    * [☁ Director DevOps](how-to/positions-at-cure-dao/dev-ops.md)
     * [Front End Designer Developer](how-to/positions-at-cure-dao/front-end-designer-developer.md)
     * [Product Management And Design](how-to/positions-at-cure-dao/product-management-and-design.md)
     * [Public Relations](how-to/positions-at-cure-dao/public-relations.md)
